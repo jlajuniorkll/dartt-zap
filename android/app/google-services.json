@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "913984649055",
+    "project_id": "darttzap",
+    "storage_bucket": "darttzap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913984649055:android:5ebd5c35616ea5445e68ea",
+        "android_client_info": {
+          "package_name": "com.example.dartt_zap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913984649055-d6kjm457ovtcr8m07a5fdvrd7qgepj5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dartt_zap",
+            "certificate_hash": "9a582eedb8d1df7b7fc7cf95e9b9dd68268c104e"
+          }
+        },
+        {
+          "client_id": "913984649055-9g9un2u1g2gc83ev2jss883nph0tqov9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2v4Qb9c7bHWxlDO2YpilEoyyntMWd7Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913984649055-9g9un2u1g2gc83ev2jss883nph0tqov9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
